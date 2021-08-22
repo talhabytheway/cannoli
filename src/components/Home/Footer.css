@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    padding: 3rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer div {
+    flex: 1 1 auto;
+}
+footer h3 {
+    padding-left: 0;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+    font-family: 'DM Serif Display', serif;
+}
+
+footer p {
+    max-width: 450px;
+    font-weight: 350;
+    font-size: 1.3rem;
+    line-height: 1.2;
+    color: #5c646d;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+  padding: 0;
+}
+
+footer li {
+    margin-bottom: 1.5rem;
+}
+footer span.Head {
+    display: block;
+    font-weight: 350;
+    font-size: 1.3rem;
+    line-height: 1.2;
+    color: #5c646d;
+
+}
+
+footer div.links li{
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 1.2;
+    color:  #ff7504;
+}
+
+footer img {
+    height: 30px;
+    width: 30px;
+}
+
+footer div.about li {
+    display: inline;
+    padding-right: 2rem;
+}

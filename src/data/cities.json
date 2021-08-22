@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Karachi",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Karachi.jpg"
+    },
+    {
+        "name": "Lahore",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Lahore.jpg"
+    },
+    {
+        "name": "Islamabad",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Islamabad.jpg"
+    },
+    {
+        "name": "Rawalpindi",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Rawalpindi.jpg"
+    },
+    {
+        "name": "Faisalabad",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Faisalabad.jpg"
+    },
+    {
+        "name": "Hyderabad",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Hyderabad.jpg"
+    },
+    {
+        "name": "Multan",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Multan.jpg"
+    },
+    {
+        "name": "Sialkot",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/SIALKOT.jpg"
+    },
+
+    {
+        "name": "Peshawar",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Peshawar.jpg"
+    },
+    {
+        "name": "Sukkur",
+        "image": "https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Sukkur.jpg"
+    },
+    {
+        "name": "Mangla",
+        "image": "https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Mangla.jpg"
+    },
+    {
+        "name": "Bahawalpur",
+        "image": "https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Bahawalpur.jpg"
+    }
+]

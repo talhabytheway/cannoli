@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+.hero {
+    width: 100%;
+    height: 100vh;
+    background-image: url('./../../assets/hero.webp');
+}
+
+.navBar {
+    padding: 2rem 8rem;
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    justify-content: space-between;
+}
+
+.opaque {
+    background-color: rgba(0,0,0,.3);
+    width: "100vw";
+    height: "100vh";
+}
+
+.ul {
+    list-style-type: none;
+    display: inline;
+    padding: 0;
+    margin: 0;
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+.li {
+    display: inline;
+    padding: .5rem;
+    font-size: 2rem;
+    font-family: 'Noto Serif',serif;
+    font: 600;
+}
+
+.li:hover {
+    color: #ff7404
+} 
+.main {
+    color: #fff;
+    font-size: 5rem;
+    font-weight: 800;
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+    margin: auto;
+}
+
+.heroo {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    padding: .7rem;
+    font-size: 1.5rem;
+    border-radius: .1em;
+    border: 2px solid #fff;
+}
+
+.button:hover {
+    color: #ff7504;
+    background-color: #fff;
+}
+
+@media (max-width: 650px) {
+
+    :root{
+        font-size: 14px;
+    }
+    .navBar {
+        flex-direction: column;
+        padding: 2rem 4rem;
+    }
+   }
