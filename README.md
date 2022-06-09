@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Mock Cannoli Restaurant Landing page made with React
+A demo of the app can be seen [here](https://cannoli-restaurant.web.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
